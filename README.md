@@ -1,3 +1,2 @@
 # Search Box
-
-https://rzvkoli.github.io/Searchbox/
+## [Live Demo](https://rzvkoli.github.io/Searchbox/)
